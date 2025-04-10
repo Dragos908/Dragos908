@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dragos908
+- 👋 Hi, I’m @Dragos908 my name is Dragoș
 - 👀 I’m interested in SQL, Phyton and java.
 - 🌱 I’m currently learning java
 - ⚡ Fun fact: I do judo.
